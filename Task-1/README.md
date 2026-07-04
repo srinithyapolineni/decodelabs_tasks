@@ -8,9 +8,9 @@ The objective of this task was to clean and preprocess a raw dataset to make it 
 
 ## 📁 Files Included
 
-- DATA ANALYTICS P1.pdf
-- Dataset for Data Analytics.xlsx
-- DecodeLabs_Project1_Cleaned.xlsx
+- 📄 [Project Report (PDF)](DATA%20ANALYTICS%20p1%20(1).pdf)
+- 📊 [Original Dataset](Dataset%20for%20Data%20Analytics%20(1).xlsx)
+- 📈 [Cleaned Dataset](DecodeLabs_Project1_Cleaned.xlsx)
 
 ---
 
