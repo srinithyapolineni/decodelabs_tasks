@@ -8,9 +8,9 @@ Analyze the dataset to discover meaningful insights and answer business-related 
 
 ## 📁 Files Included
 
-- Data Analytics P2.pdf
-- Dataset.xlsx
-- Output File
+- 📄 [Project Report](Data%20analytics%20P2_compressed%20(1).pdf)
+- 📊 [Original Dataset](Dataset%20for%20Data%20Analytics%20(1).xlsx)
+- 📈 [Processed Dataset](Dataset%20for%20Data%20Analytics.xlsx)
 
 ---
 
